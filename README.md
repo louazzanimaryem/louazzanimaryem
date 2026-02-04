@@ -26,17 +26,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louazzanimaryem&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=louazzanimaryem&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louazzanimaryem&layout=compact&theme=radical" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=louazzanimaryem&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=louazzanimaryem&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=louazzanimaryem&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
