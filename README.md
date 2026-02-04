@@ -24,8 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=louazzanimaryem&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=louazzanimaryem&theme=blue_navy&hide_border=false)<br/>
