@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/louazzanimaryem/louazzanimaryem/main/banner.gif" />
+  <img src="https://camo.githubusercontent.com/287fd5ca85620bafaecf94c46b864bbcf917e896c33079c5bf0d039d81e3c04e/68747470733a2f2f61727466696c65732e616c706861636f646572732e636f6d2f3630382f36303837372e676966" />
 </p>
 
 <h1 align="center">✨ Maryem Louazzani ✨</h1>
